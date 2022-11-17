@@ -12,12 +12,12 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to the craziest free game website!" />
-        <p className="description">HahaGames is an online game portal where you can play hundreds of free browser games. <br>
-    We have categories like action games, puzzle games, sports games, racing games, shooting games, strategy games, RPG games, MMORPG games, and many more!<br><br>
-    Play your favorite games anytime, anywhere.  <br><br>
+        <p className="description">HahaGames is an online game portal where you can play hundreds of free browser games. <br /> 
+    We have categories like action games, puzzle games, sports games, racing games, shooting games, strategy games, RPG games, MMORPG games, and many more!<br /> <br /> 
+    Play your favorite games anytime, anywhere.  <br /> <br /> 
     
-    Our selection of fun games is always growing, so you can enjoy hours of entertainment without ever having to download or install anything. <br>
-    Plus, we never have intrusive ads or pop-ups, so you can just focus on playing your favorite games. So why wait? Start playing today!
+    Our selection of fun games is always growing, so you can enjoy hours of entertainment without ever having to download or install anything. <br /> 
+    Plus, we never have intrusive ads or pop-ups, so you can just focus on playing your favorite games. So why wait? Start playing today!<br /> <br /> 
   
           Play the best free browser-based games at <a href="https://hahagames.com">HahaGames.com</a>. Crazy games from all kinds of categories!
         </p>
