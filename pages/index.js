@@ -12,6 +12,7 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to the craziest free game website!" />
+    <iframe src="https://hahagames.com" style="border:0px #ffffff none;" name="HahaGames" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="75%" width="75%" allowfullscreen></iframe>
         <p className="description">HahaGames is an online game portal where you can play hundreds of free browser games. <br /> 
     We have categories like action games, puzzle games, sports games, racing games, shooting games, strategy games, RPG games, MMORPG games, and many more!<br /> <br /> 
     Play your favorite games anytime, anywhere.  <br /> <br /> 
